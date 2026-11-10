@@ -13,19 +13,19 @@ Currently exploring AI agents, MCP, and self-hosted systems.
 ---
 
 <p>
-  <img src="assets/typescript.svg" alt="TypeScript" height="30">
-  <img src="assets/react.svg" alt="React" height="30">
-  <img src="assets/nextjs.svg" alt="Next.js" height="30">
-  <img src="assets/php.svg" alt="PHP" height="30">
-  <img src="assets/wordpress.svg" alt="WordPress" height="30">
-  <img src="assets/woocommerce.svg" alt="WooCommerce" height="30">
+  <a href="https://www.typescriptlang.org/docs/"><img src="assets/typescript.svg" alt="TypeScript" height="30"></a>
+  <a href="https://react.dev/learn"><img src="assets/react.svg" alt="React" height="30"></a>
+  <a href="https://nextjs.org/docs"><img src="assets/nextjs.svg" alt="Next.js" height="30"></a>
+  <a href="https://www.php.net/docs.php"><img src="assets/php.svg" alt="PHP" height="30"></a>
+  <a href="https://developer.wordpress.org/"><img src="assets/wordpress.svg" alt="WordPress" height="30"></a>
+  <a href="https://developer.woocommerce.com/docs/"><img src="assets/woocommerce.svg" alt="WooCommerce" height="30"></a>
 </p>
 
 <p>
-  <img src="assets/docker.svg" alt="Docker" height="30">
-  <img src="assets/linux.svg" alt="Linux" height="30">
-  <img src="assets/cloudflare.svg" alt="Cloudflare" height="30">
-  <img src="assets/n8n.svg" alt="n8n" height="30">
+  <a href="https://docs.docker.com/"><img src="assets/docker.svg" alt="Docker" height="30"></a>
+  <a href="https://docs.kernel.org/"><img src="assets/linux.svg" alt="Linux" height="30"></a>
+  <a href="https://developers.cloudflare.com/"><img src="assets/cloudflare.svg" alt="Cloudflare" height="30"></a>
+  <a href="https://docs.n8n.io/"><img src="assets/n8n.svg" alt="n8n" height="30"></a>
 </p>
 
 **Beyond code** · Cameras, homelabs, and connected notes.
