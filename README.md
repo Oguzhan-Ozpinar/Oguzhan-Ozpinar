@@ -1,4 +1,7 @@
-![Oğuzhan ÖZPINAR — From idea to working systems.](assets/cover.svg)
+<picture>
+  <source media="(max-width: 480px)" srcset="assets/cover-mobile.svg">
+  <img src="assets/cover.svg" alt="Oğuzhan ÖZPINAR — From idea to working systems." width="960">
+</picture>
 
 ## Hi, I'm Oğuzhan.
 
